@@ -30,5 +30,5 @@ npm install node-sass
 ```
 4. Запустить отслеживание sass:
 ```
-npm start sass
+npm run sass
 ```
