@@ -80,7 +80,7 @@
   }
 
   &__circle {
-    background-image: url(../../../images/circlesgroup.svg);
+    background-image: url('../images/circlesgroup.svg');
     background-position: right;
     background-repeat: no-repeat;
     width: 640px;
@@ -89,7 +89,7 @@
 
     @media screen and (max-width: $big-size) {
       & {
-        background-image: url(../../../images/bluesemicircle.png);
+        background-image: url('../images/bluesemicircle.png');
         height: 520px;
         margin-top: 226px;
         margin-bottom: 50px;
@@ -143,11 +143,9 @@
       flex-direction: row;
       justify-content: space-between;
     }
-  }
 
-  @media screen and (max-width: $small-size) {
     &__item {
-      background-image: url(../../../images/Group343.png);
+      background-image: url('../images/Group343.png');
       background-repeat: no-repeat;
       padding-bottom: 50px;
       width: 120px;
