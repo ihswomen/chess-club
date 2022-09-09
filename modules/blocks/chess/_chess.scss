@@ -143,9 +143,7 @@
       flex-direction: row;
       justify-content: space-between;
     }
-  }
 
-  @media screen and (max-width: $small-size) {
     &__item {
       background-image: url(../../../images/Group343.png);
       background-repeat: no-repeat;
