@@ -148,14 +148,14 @@
 
   &__semicircle {
     margin-top: 44px;
-    background-image: url(../../../images/Group339.png);
+    background-image: url(../images/Group339.png);
     background-repeat: no-repeat;
     width: 440px;
     height: 220px;
 
     @media screen and (max-width: $middle-size) {
       & {
-        background-image: url(../../../images/greenquadrant.png);
+        background-image: url(../images/greenquadrant.png);
         background-repeat: no-repeat;
         margin-top: 10px;
       }
